@@ -1,0 +1,1 @@
+const LeraPevneva = "My Love";
