@@ -1,1 +1,4 @@
-const LeraPevneva = "My Love";
+function reusableFunction (){
+    console.log("Hi World");
+  }
+  reusableFunction ();
